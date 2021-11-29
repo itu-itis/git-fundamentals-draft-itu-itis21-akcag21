@@ -4,20 +4,20 @@ h1 {
   text-decoration: none;
   padding: 1ex;
   width: 50%;
-	color: red;
-	font-size: 24 pt;
-	font-family: Tahoma, Helvetica, sans-serif;
+  color: red;
+  font-size: 24 pt;
+  font-family: Tahoma, Helvetica, sans-serif;
 }
 
 em {
-	color: green;
-	font-style: normal;
-	background-color: lightgrey;
-	font-weight: bold;
+  color: green;
+  font-style: normal;
+  background-color: lightgrey;
+  font-weight: bold;
 }
 
 ul {
-	list-style-type: square;
+  list-style-type: square;
 }
 
 a:hover {
